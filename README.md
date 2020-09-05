@@ -17,6 +17,8 @@ Once you've installed everything, dance around, then open a terminal window wher
 [Quit] - Closes the app
 
 Once the timer reaches 0 the gif will play.
+
+
 ![](2.gif)
 
 To move the window just select the background of the tkinter-window and you'll be able to drag it anywhere.
