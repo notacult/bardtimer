@@ -1,4 +1,4 @@
-![](demo2.png)
+![niice](demo2.png)
 
 # bardtimer
 Libaries used, and ones you need to install:
