@@ -1,5 +1,4 @@
-
-![](2.gif)
+![](demo2.png)
 
 # bardtimer
 Libaries used, and ones you need to install:
@@ -10,8 +9,8 @@ Libaries used, and ones you need to install:
 ``PIL``
 ``itertools``
 
-![](demo2.png)
-Once you've installed everything, dance around, then open a terminal window where the files are saved, and type
+Once you've installed everything, 
+![](2.gif)dance around, then open a terminal window where the files are saved, and type
 - py bard.py
 [Start] - Starts the timer
 [Reset] - Deletes the instance of the window and restarts a new app
