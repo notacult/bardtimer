@@ -1,6 +1,6 @@
 # bardtimer
 
-![](demo.png)
+![](demo2.png)
 
 - py bard.py
 
