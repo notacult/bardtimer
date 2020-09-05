@@ -9,12 +9,15 @@ Libaries used, and ones you need to install:
 ``PIL``
 ``itertools``
 
-Once you've installed everything, 
-![](2.gif)dance around, then open a terminal window where the files are saved, and type
+Once you've installed everything, dance around, then open a terminal window where the files are saved, and type
+
 - py bard.py
 [Start] - Starts the timer
 [Reset] - Deletes the instance of the window and restarts a new app
 [Quit] - Closes the app
+
+Once the timer reaches 0 the gif will play.
+![](2.gif)
 
 To move the window just select the background of the tkinter-window and you'll be able to drag it anywhere.
 It's a bit slow when the timer is running, and I'm not quite sure why.
