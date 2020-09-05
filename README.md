@@ -39,3 +39,5 @@ Tkinter doesn't recognize that the animation should play forever
 Here is how to edit it in Photoshop, more instructions inside the file
 
 ![](image.png)
+
+``rip dayse``
