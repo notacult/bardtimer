@@ -1,3 +1,6 @@
+
+![](2.gif)
+
 # bardtimer
 
 ![](demo2.png)
