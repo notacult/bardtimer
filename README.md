@@ -15,7 +15,7 @@ Once you've installed everything, dance around, then open a terminal window wher
 ---------------------
 [Start] - Starts the timer
 ---------------------
-Reset] - Deletes the instance of the window and restarts a new app
+[Reset] - Deletes the instance of the window and restarts a new app
 ---------------------
 [Quit] - Closes the app
 ---------------------
