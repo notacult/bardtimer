@@ -12,16 +12,15 @@ Libaries used, and ones you need to install:
 Once you've installed everything, dance around, then open a terminal window where the files are saved, and type
 
 - py bard.py
----------------------
+
 [Start] - Starts the timer
----------------------
+
 [Reset] - Deletes the instance of the window and restarts a new app
----------------------
+
 [Quit] - Closes the app
----------------------
+
 
 Once the timer reaches 0 the gif will play.
-
 
 ![](2.gif)
 
